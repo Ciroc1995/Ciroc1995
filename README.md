@@ -24,7 +24,8 @@ I've been learning Python for 4 months and i find out my passion for programming
 </p>
 
 ### Socials
-<p align="left"> <a href="https://www.github.com/Ciroc1995" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+
+<p align="left"> <a href="https://www.github.com/Ciroc1995" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/cicero-cordeiro-neto/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
@@ -33,4 +34,3 @@ I've been learning Python for 4 months and i find out my passion for programming
 <a href="http://www.github.com/Ciroc1995"><img src="https://github-readme-stats.vercel.app/api?username=Ciroc1995&show_icons=true&hide=&count_private=true&title_color=000000&text_color=ffffff&icon_color=0f172a&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="Ciroc1995's GitHub stats" /></a>
 
 <a href="http://www.github.com/Ciroc1995"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ciroc1995&stroke=ffffff&background=1e3a8a&ring=000000&fire=000000&currStreakNum=ffffff&currStreakLabel=000000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-                    
